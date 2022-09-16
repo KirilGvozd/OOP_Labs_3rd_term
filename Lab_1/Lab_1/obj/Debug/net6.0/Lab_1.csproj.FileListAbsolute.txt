@@ -1,0 +1,15 @@
+D:\Semestr_3\OOP\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.exe
+D:\Semestr_3\OOP\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.deps.json
+D:\Semestr_3\OOP\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.runtimeconfig.json
+D:\Semestr_3\OOP\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.dll
+D:\Semestr_3\OOP\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.pdb
+D:\Semestr_3\OOP\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.csproj.AssemblyReference.cache
+D:\Semestr_3\OOP\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semestr_3\OOP\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.AssemblyInfoInputs.cache
+D:\Semestr_3\OOP\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.AssemblyInfo.cs
+D:\Semestr_3\OOP\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.csproj.CoreCompileInputs.cache
+D:\Semestr_3\OOP\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.dll
+D:\Semestr_3\OOP\Lab_1\Lab_1\obj\Debug\net6.0\refint\Lab_1.dll
+D:\Semestr_3\OOP\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.pdb
+D:\Semestr_3\OOP\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.genruntimeconfig.cache
+D:\Semestr_3\OOP\Lab_1\Lab_1\obj\Debug\net6.0\ref\Lab_1.dll
