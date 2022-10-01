@@ -4,7 +4,14 @@
     <projectFile>Lab2.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbd32a36-22e9-4d98-9e74-6fdca5e941a6" name="Changes" comment="" />
+    <list default="true" id="dbd32a36-22e9-4d98-9e74-6fdca5e941a6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Book.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab2.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664554178605</updated>
       <workItem from="1664554188326" duration="9217000" />
+      <workItem from="1664624048352" duration="3189000" />
     </task>
     <task id="LOCAL-00001" summary="Made the second lab">
       <created>1664580439359</created>

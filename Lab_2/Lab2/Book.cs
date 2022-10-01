@@ -228,6 +228,7 @@ namespace Lab2
 
             var gusFring = new { name = "Gustavo", surname = "Sus" };
             Console.WriteLine("\nAnonymous type: Hello, my name is " + gusFring.name + ". But you can call me " + gusFring.surname + ".\n");
+            Console.WriteLine("Constructor was called " + counter + " times.");
         }
     }
 }
