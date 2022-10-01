@@ -4,14 +4,7 @@
     <projectFile>Lab2.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbd32a36-22e9-4d98-9e74-6fdca5e941a6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Book.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab2.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="dbd32a36-22e9-4d98-9e74-6fdca5e941a6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/df71358f7b7337a1eee3a65abe6d678dd9a065e256b8cc3fd44a2949754/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Semestr_3/OOP_Labs/Lab_2/Lab2/Book.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -70,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664554178605</updated>
       <workItem from="1664554188326" duration="9217000" />
-      <workItem from="1664624048352" duration="3189000" />
+      <workItem from="1664624048352" duration="3324000" />
     </task>
     <task id="LOCAL-00001" summary="Made the second lab">
       <created>1664580439359</created>
@@ -79,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664580439359</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab2 completed and was passed">
+      <created>1664655913915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664655913915</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +103,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Made the second lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made the second lab" />
+    <MESSAGE value="Lab2 completed and was passed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab2 completed and was passed" />
   </component>
 </project>
