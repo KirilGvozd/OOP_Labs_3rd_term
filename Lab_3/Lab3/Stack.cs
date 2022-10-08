@@ -2,13 +2,35 @@
 
 namespace Lab3
 {
-    class Stack
+    public class Stack
     {
         public class Production
         {
+            private readonly int _id;
+            public string Name { get; set; }
             
+            public Production(string organisationName)
+            {
+                this._id = GetHashCode();
+                this.Name = organisationName;
+            }
         }
         
+        public class Developer
+        {
+            private readonly int _id;
+            public string Name { get; set; }
+            public string Department { get; set; }
+
+            public Developer(string developerName, string department)
+            {
+                _id = GetHashCode();
+                this.Name = developerName;
+                this.Department = department;
+            }
+        }
+
+
         public int[] MyStack;
         public int Counter;
         public int StackCapacity;
@@ -81,7 +103,7 @@ namespace Lab3
         {
             for (int i = 0; i < givenStack.StackCapacity; i++)
             {
-                if (givenStack.MyStack[i] < 0)
+                if (givenStack.MyStack[i] > 0)
                 {
                     return false;
                 }
@@ -142,6 +164,11 @@ namespace Lab3
 
             return true;
 
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
         }
     }    
 }
