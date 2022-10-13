@@ -1,6 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
-using System.Net.Http.Headers;
-
+﻿
 namespace Lab3;
 
 public class Lab3
