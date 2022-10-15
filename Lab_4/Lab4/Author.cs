@@ -1,7 +1,6 @@
 ﻿namespace Lab4;
 
-public class Author
+public class Author : Person
 {
-    public string? NameOfTheAuthor;
-    public string? SurnameOfTheAuthor;
+    public int YearOfBirth;
 }

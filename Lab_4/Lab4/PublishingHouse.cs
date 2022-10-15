@@ -2,11 +2,12 @@
 
 public sealed class PublishingHouse
 {
-    public string? NameOfThePublishingHouse { get; } = null;
+    private string? NameOfThePublishingHouse { get; }
     private int _id;
-    public int Id
+
+    private int Id
     {
-        get { return _id; }
+        get => _id;
         set
         {
             _id = value;

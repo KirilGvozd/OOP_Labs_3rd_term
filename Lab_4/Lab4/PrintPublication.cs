@@ -1,11 +1,15 @@
 ﻿namespace Lab4;
 
-public abstract class PrintPublication
+public abstract class PrintPublication : Author
 {
-    public string? NameOfThePrintPublication;
-    public int AmountOfPages;
-    public int YearOfPublication;
-    
-    public abstract void InformationAboutPrintPublication();
-    public abstract void Reading();
+    protected string? NameOfThePrintPublication;
+    protected int AmountOfPages;
+    protected int YearOfPublication;
+
+    public virtual void Reading()
+    {
+        Console.WriteLine("Reading some print publication.") ;
+    }
+
+    public abstract void TestFunction();
 }
