@@ -36,7 +36,7 @@ public class Magazine : PrintPublication, IInformationAboutPublication
 
     public override string ToString()
     {
-        return $"Type: {this.GetType()}, Pages: {this.AmountOfPages}";
+        return $"Name of the book: {this.NameOfThePrintPublication}, Price: {this.PriceOfThePrintPublication}, Year of publication: {YearOfPublication}.";
     }
     
 }

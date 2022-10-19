@@ -11,17 +11,31 @@ public class Library
         private double _sumOfAllBooks;
         private int _numberOfWorkBooks;
 
-        public Library(string nameOfTheBook, int yearOfPublication, double priceOfBook)
+        public Library() 
         {
                 ListOfAllBooks = new List<PrintPublication>();
-                this.NameOfTheBook = nameOfTheBook;
-                this.PriceOfBook = priceOfBook;
-                this.yearOfPublication = yearOfPublication;
         }
 
         public void AddItem(PrintPublication item)
         {
                 ListOfAllBooks.Add(item);
-                
+                _sumOfAllBooks += item.PriceOfThePrintPublication;
+                _numberOfWorkBooks++;
+        }
+
+        public void DeleteItem(PrintPublication item)
+        {
+                ListOfAllBooks.Remove(item);
+                _sumOfAllBooks -= item.PriceOfThePrintPublication;
+                _numberOfWorkBooks--;
+        }
+
+        public void PrintList()
+        {
+                Console.WriteLine("\nPrinting the list:");
+                foreach (var item in ListOfAllBooks)
+                {
+                        Console.WriteLine(item.ToString());
+                }
         }
 }

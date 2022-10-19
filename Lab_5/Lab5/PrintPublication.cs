@@ -2,10 +2,10 @@
 
 public abstract class PrintPublication : Author
 {
-    protected string? NameOfThePrintPublication;
+    public string? NameOfThePrintPublication;
     protected int AmountOfPages;
-    protected int YearOfPublication;
-    protected double PriceOfThePrintPublication;
+    public int YearOfPublication;
+    public double PriceOfThePrintPublication;
 
     public virtual void Reading()
     {

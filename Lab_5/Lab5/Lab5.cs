@@ -62,6 +62,10 @@ class Lab5
                 Console.WriteLine($"Our car is {passat.nameOfTheManufacter} with the engine capacity of {passat.engineCapacity}l. This is a {passat.typeOfCar} with {passat.numberOfSeats} seats.");
                 
                 //Класс-контейнер
+                Library firstLibrary = new Library();
                 
+                firstLibrary.AddItem(warAndPeace);
+                firstLibrary.AddItem(forWhomTheBellTolls);
+                firstLibrary.PrintList();
         }
 }
