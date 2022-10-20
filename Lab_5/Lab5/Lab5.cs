@@ -67,5 +67,18 @@ class Lab5
                 firstLibrary.AddItem(warAndPeace);
                 firstLibrary.AddItem(forWhomTheBellTolls);
                 firstLibrary.PrintList();
+                
+                //Метод из класса-контроллера
+                foreach (var item in LibraryController.PrintBooks(firstLibrary, 1900))
+                {
+                        Console.WriteLine(item.ToString());
+                }
+                
+                LibraryController.TextReader(firstLibrary);
+                firstLibrary.PrintList();
+                
+                //JSON
+                LibraryController.JsonWriter(firstLibrary);
+                firstLibrary.PrintList();
         }
 }

@@ -9,7 +9,7 @@ public partial class Book : PrintPublication, IInformationAboutPublication
         Console.WriteLine("Reading " + NameOfThePrintPublication);
     }
 
-    public  void InformationAboutPrintPublication()
+    public void InformationAboutPrintPublication()
     {
         Console.WriteLine("Name of the book: " + NameOfThePrintPublication);
         Console.WriteLine("Amount of pages: " + AmountOfPages);
@@ -19,7 +19,7 @@ public partial class Book : PrintPublication, IInformationAboutPublication
     }
 
     public Book(string? typeOfBinding, string? nameOfThePrintPublication, string? nameOfTheAuthor, string? surnameOfTheAuthor, int amountOfPages, int yearOfPublication, double priceOfThePrintPublication)
-    {
+    { 
         NameOfThePerson = nameOfTheAuthor;
         SurnameOfThePerson = surnameOfTheAuthor;
         _typeOfBinding = typeOfBinding;

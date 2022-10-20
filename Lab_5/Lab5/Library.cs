@@ -37,5 +37,8 @@ public class Library
                 {
                         Console.WriteLine(item.ToString());
                 }
+
+                Console.WriteLine("\nNumber of all books in library: " + _numberOfWorkBooks);
+                Console.WriteLine("Sum of all books in library: " + _sumOfAllBooks);
         }
 }

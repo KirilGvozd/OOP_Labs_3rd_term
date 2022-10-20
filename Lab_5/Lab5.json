@@ -1,0 +1,18 @@
+[
+  {
+    "$type" : "Lab5.Book, Lab5",
+    "nameOfThePrintPublication" : "Masters Of Doom",
+    "nameOfTheAuthor" : "John",
+    "surnameOfTheAuthor" : "Romero",
+    "amountOfPages" : 150,
+    "yearOfPublication" : 2006,
+    "priceOfThePrintPublication" : 25.25
+  },
+  {
+    "$type" : "Lab5.Magazine, Lab5",
+    "nameOfThePrintPublication" : "Fortune",
+    "amountOfPages" : 20,
+    "yearOfPublication" : 2020,
+    "priceOfThePrintPublication" : 25.25
+  }
+]
