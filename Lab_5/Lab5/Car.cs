@@ -2,16 +2,16 @@
 
 public struct Car
 {
-    public double engineCapacity;
-    public int numberOfSeats;
-    public string nameOfTheManufacter;
-    public string typeOfCar;
+    public readonly double EngineCapacity;
+    public readonly int NumberOfSeats;
+    public readonly string NameOfTheManufacterer;
+    public readonly string TypeOfCar;
 
-    public Car(double engineCapacity, int numberOfSeats, string nameOfTheManufacter, string typeOfCar)
+    public Car(double engineCapacity, int numberOfSeats, string nameOfTheManufacterer, string typeOfCar)
     {
-        this.engineCapacity = engineCapacity;
-        this.numberOfSeats = numberOfSeats;
-        this.typeOfCar = typeOfCar;
-        this.nameOfTheManufacter = nameOfTheManufacter;
+        this.EngineCapacity = engineCapacity;
+        this.NumberOfSeats = numberOfSeats;
+        this.TypeOfCar = typeOfCar;
+        this.NameOfTheManufacterer = nameOfTheManufacterer;
     }
 }

@@ -1,7 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="952ebe37-603e-4aa9-bd09-324fc46bbc21" name="Changes" comment="" />
+    <list default="true" id="952ebe37-603e-4aa9-bd09-324fc46bbc21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/.idea/.idea.ControlWork/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/.idea/.idea.ControlWork/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/.idea/.idea.ControlWork/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/.idea/.idea.ControlWork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/Bug.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/FirstTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/IPriority.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/SecondTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/bin/Debug/net6.0/ControlWork.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/bin/Debug/net6.0/ControlWork.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/bin/Debug/net6.0/ControlWork.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/bin/Debug/net6.0/ControlWork.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/bin/Debug/net6.0/ControlWork.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/ControlWork.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/ControlWork.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/ControlWork.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/ref/ControlWork.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/Debug/net6.0/refint/ControlWork.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlWorks/ControlWork/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/.idea/.idea.Lab_6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/.idea/.idea.Lab_6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/.idea/.idea.Lab_6/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/.idea/.idea.Lab_6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/Book.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/BookPartial.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/Lab5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/Library.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/LibraryController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/Debug/net6.0/Lab_6.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/Debug/net6.0/Lab_6.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/Debug/net6.0/Lab_6.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/Debug/net6.0/Lab_6.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/Debug/net6.0/Lab_6.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/Debug/net6.0/Lab_6.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/Lab_6.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/Lab_6.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/Lab_6.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4/Lab4/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4/Lab4/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4/Lab4/bin/Debug/net6.0/Lab4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4/Lab4/bin/Debug/net6.0/Lab4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4/Lab4/bin/Debug/net6.0/Lab4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4/Lab4/bin/Debug/net6.0/Lab4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4/Lab4/obj/Debug/net6.0/Lab4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4/Lab4/obj/Debug/net6.0/Lab4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_4/Lab4/obj/Debug/net6.0/Lab4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4/Lab4/obj/Debug/net6.0/Lab4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/Author.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_6/Lab_6/Author.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/Car.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_6/Lab_6/Car.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/IInformationAboutPublication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_6/Lab_6/IInformationAboutPublication.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/Lab5.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/Lab5/Lab5.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/Magazine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_6/Lab_6/Magazine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/People.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_6/Lab_6/People.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_6/Lab_6/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/PrintPublication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_6/Lab_6/PrintPublication.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/Printer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_6/Lab_6/Printer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/PublishingHouse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_6/Lab_6/PublishingHouse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/WorkBook.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_6/Lab_6/WorkBook.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/bin/Debug/net6.0/Lab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/Lab5/bin/Debug/net6.0/Lab5.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/bin/Debug/net6.0/Lab5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/Lab5/bin/Debug/net6.0/Lab5.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/obj/Debug/net6.0/Lab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/Lab5/obj/Debug/net6.0/Lab5.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/obj/Debug/net6.0/Lab5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/Lab5/obj/Debug/net6.0/Lab5.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/obj/Debug/net6.0/ref/Lab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/Lab5/obj/Debug/net6.0/ref/Lab5.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_5/Lab5/obj/Debug/net6.0/refint/Lab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/Lab5/obj/Debug/net6.0/refint/Lab5.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/.idea/.idea.Lab6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/.idea/.idea.Lab6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/.idea/.idea.Lab6/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/.idea/.idea.Lab6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/Author.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/Book.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/BookPartial.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/Car.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/Exceptions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/IInformationAboutPublication.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/Lab6.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/Lab6.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/Lab6.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/Library.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/LibraryController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/Magazine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/People.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/Person.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/PrintPublication.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/Printer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/PublishingHouse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/WorkBook.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/bin/Debug/net6.0/Lab6.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/bin/Debug/net6.0/Lab6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/bin/Debug/net6.0/Lab6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/bin/Debug/net6.0/Lab6.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/bin/Debug/net6.0/Lab6.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/bin/Debug/net6.0/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/Lab6.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/Lab6.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/Lab6.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/Lab6.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/Lab6.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/Lab6.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/Lab6.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/Lab6.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/Lab6.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/Lab6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/Lab6.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/Lab6.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/ref/Lab6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Debug/net6.0/refint/Lab6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Lab6.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Lab6.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/Lab6.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_6/Lab6/obj/rider.project.restore.info" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +170,8 @@
       <workItem from="1666257512167" duration="1452000" />
       <workItem from="1666270041559" duration="11000" />
       <workItem from="1666271392036" duration="6000" />
+      <workItem from="1666622197080" duration="3000" />
+      <workItem from="1666631196216" duration="610000" />
     </task>
     <servers />
   </component>

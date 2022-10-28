@@ -1,0 +1,15 @@
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\bin\Debug\net6.0\ControlWork.exe
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\bin\Debug\net6.0\ControlWork.deps.json
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\bin\Debug\net6.0\ControlWork.runtimeconfig.json
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\bin\Debug\net6.0\ControlWork.dll
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\bin\Debug\net6.0\ControlWork.pdb
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\obj\Debug\net6.0\ControlWork.csproj.AssemblyReference.cache
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\obj\Debug\net6.0\ControlWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\obj\Debug\net6.0\ControlWork.AssemblyInfoInputs.cache
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\obj\Debug\net6.0\ControlWork.AssemblyInfo.cs
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\obj\Debug\net6.0\ControlWork.csproj.CoreCompileInputs.cache
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\obj\Debug\net6.0\ControlWork.dll
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\obj\Debug\net6.0\refint\ControlWork.dll
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\obj\Debug\net6.0\ControlWork.pdb
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\obj\Debug\net6.0\ControlWork.genruntimeconfig.cache
+D:\Semestr_3\OOP_Labs\ControlWorks\ControlWork\obj\Debug\net6.0\ref\ControlWork.dll

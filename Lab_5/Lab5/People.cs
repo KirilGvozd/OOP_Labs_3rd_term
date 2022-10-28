@@ -5,7 +5,7 @@ public enum People
     Kirill,
     Oleg,
     Anton,
-    Vlad,
+    VladoSus,
     Alexey,
     Alexander
 }
