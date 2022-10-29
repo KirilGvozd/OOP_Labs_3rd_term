@@ -4,3 +4,24 @@ INFO: Цена равна нулю
 29/10/2022 01:21:34
 Тип: Lab6.PriceException
 INFO: Цена равна нулю
+29/10/2022 14:43:42
+Тип: Lab6.PriceException
+INFO: Цена равна нулю
+29/10/2022 14:44:45
+Тип: Lab6.PriceException
+INFO: Цена равна нулю
+29/10/2022 14:45:31
+Тип: Lab6.PriceException
+INFO: Цена равна нулю
+29/10/2022 14:46:16
+Тип: Lab6.PriceException
+INFO: Цена равна нулю
+29/10/2022 14:46:42
+Тип: Lab6.PriceException
+INFO: Цена равна нулю
+29/10/2022 14:52:08
+Тип: Lab6.PriceException
+INFO: Цена равна нулю
+29/10/2022 15:19:03
+Тип: Lab6.PriceException
+INFO: Цена равна нулю

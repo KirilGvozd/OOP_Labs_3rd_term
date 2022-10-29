@@ -4,7 +4,21 @@
     <projectFile>Lab6/Lab6.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c469ae6d-1eea-479a-9cdb-348c5b0730c9" name="Changes" comment="" />
+    <list default="true" id="c469ae6d-1eea-479a-9cdb-348c5b0730c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Lab6/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Lab6/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Lab6/FileContentIndex/37203780-6924-48db-90dc-566ed2c4556a.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Lab6/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Lab6/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Lab6/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Lab6/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab6.metadata.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab6.metadata.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab6.projects.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab6.projects.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/Lab6.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/Lab6.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/bin/Debug/net6.0/Lab6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/bin/Debug/net6.0/Lab6.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/bin/Debug/net6.0/Lab6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/bin/Debug/net6.0/Lab6.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/obj/Debug/net6.0/Lab6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/obj/Debug/net6.0/Lab6.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/obj/Debug/net6.0/Lab6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/obj/Debug/net6.0/Lab6.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Log.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,17 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.sourceCode.C#",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Lab6" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -60,6 +74,8 @@
       <updated>1666957125210</updated>
       <workItem from="1666957133321" duration="9568000" />
       <workItem from="1666995042544" duration="2045000" />
+      <workItem from="1667043794001" duration="145000" />
+      <workItem from="1667044106941" duration="1713000" />
     </task>
     <task id="LOCAL-00001" summary="Made the sixth lab and made answers for the questions">
       <created>1666998313108</created>

@@ -6,6 +6,10 @@ static class Lab6
 {
         public static void Main()
         {
+                /*
+                Book warAndPeace = new Book("War And Peace", "Leo", "Tolstoy", -24, 20.25);
+                Debug.Assert(warAndPeace.AmountOfPages > 0, "Количество страниц меньше нуля.");
+                */
                 //2 задание
                 try
                 {
@@ -48,7 +52,7 @@ static class Lab6
                         Console.WriteLine("\n" + e.Message);
                         Console.WriteLine(e.StackTrace + "\n");
                 }
-                
+
                 //Дополнительное задание с логгером
                 try
                 {
@@ -69,7 +73,7 @@ static class Lab6
                 }
                 catch
                 {
-                        Console.WriteLine("\nНеверные данные!");   
+                        Console.WriteLine("\nНеверные данные!");
                 }
 
                 //5 задание
@@ -87,8 +91,5 @@ static class Lab6
                 {
                         Console.WriteLine("Finally, it's over.");
                 }
-                
-                Book warAndPeace = new Book("War And Peace", "Leo", "Tolstoy", -24, 20.25);
-                Debug.Assert(warAndPeace.AmountOfPages < 0, "Количество страниц меньше нуля.");
         }
 }
