@@ -4,120 +4,7 @@
     <projectFile>Lab6/Lab6.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c469ae6d-1eea-479a-9cdb-348c5b0730c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/.idea/.idea.ControlWork/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/.idea/.idea.ControlWork/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/.idea/.idea.ControlWork/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/.idea/.idea.ControlWork/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/Bug.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/FirstTask.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/IPriority.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/SecondTask.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/bin/Debug/net6.0/ControlWork.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/bin/Debug/net6.0/ControlWork.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/bin/Debug/net6.0/ControlWork.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/bin/Debug/net6.0/ControlWork.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/bin/Debug/net6.0/ControlWork.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/ControlWork.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/ControlWork.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/ControlWork.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/ControlWork.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/ref/ControlWork.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/Debug/net6.0/refint/ControlWork.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ControlWorks/ControlWork/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/Logger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/NameException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/NumberOfPagesException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/PriceException.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_4/Lab4/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_4/Lab4/Person.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_4/Lab4/bin/Debug/net6.0/Lab4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_4/Lab4/bin/Debug/net6.0/Lab4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_4/Lab4/bin/Debug/net6.0/Lab4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_4/Lab4/bin/Debug/net6.0/Lab4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_4/Lab4/obj/Debug/net6.0/Lab4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_4/Lab4/obj/Debug/net6.0/Lab4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_4/Lab4/obj/Debug/net6.0/Lab4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_4/Lab4/obj/Debug/net6.0/Lab4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/Author.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/Car.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/IInformationAboutPublication.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/Lab5.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_5/Lab5/Lab5.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/Library.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_5/Lab5/Library.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/LibraryController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_5/Lab5/LibraryController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/Magazine.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/People.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/Person.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/PrintPublication.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/Printer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/PublishingHouse.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/WorkBook.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/bin/Debug/net6.0/Lab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_5/Lab5/bin/Debug/net6.0/Lab5.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/bin/Debug/net6.0/Lab5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_5/Lab5/bin/Debug/net6.0/Lab5.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/obj/Debug/net6.0/Lab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_5/Lab5/obj/Debug/net6.0/Lab5.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/obj/Debug/net6.0/Lab5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_5/Lab5/obj/Debug/net6.0/Lab5.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/obj/Debug/net6.0/ref/Lab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_5/Lab5/obj/Debug/net6.0/ref/Lab5.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_5/Lab5/obj/Debug/net6.0/refint/Lab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_5/Lab5/obj/Debug/net6.0/refint/Lab5.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab6/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Author.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookPartial.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Car.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exceptions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IInformationAboutPublication.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Magazine.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/People.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Person.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrintPublication.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Printer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PublishingHouse.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WorkBook.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab6.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab6.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab6.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab6.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab6.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab6.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab6.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab6.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab6.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab6.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab6.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab6.csproj.CopyComplete" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab6.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab6.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab6.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab6.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab6.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/apphost.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Lab6.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/refint/Lab6.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Lab6.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Lab6.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Lab6.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" />
-    </list>
+    <list default="true" id="c469ae6d-1eea-479a-9cdb-348c5b0730c9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,8 +59,16 @@
       <option name="presentableId" value="Default" />
       <updated>1666957125210</updated>
       <workItem from="1666957133321" duration="9568000" />
-      <workItem from="1666995042544" duration="1998000" />
+      <workItem from="1666995042544" duration="2045000" />
     </task>
+    <task id="LOCAL-00001" summary="Made the sixth lab and made answers for the questions">
+      <created>1666998313108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666998313108</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,5 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Made the sixth lab and made answers for the questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made the sixth lab and made answers for the questions" />
   </component>
 </project>
