@@ -1,0 +1,17 @@
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\bin\Debug\net6.0\Lab7.exe
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\bin\Debug\net6.0\Lab7.deps.json
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\bin\Debug\net6.0\Lab7.runtimeconfig.json
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\bin\Debug\net6.0\Lab7.dll
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\bin\Debug\net6.0\Lab7.pdb
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\obj\Debug\net6.0\Lab7.csproj.AssemblyReference.cache
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\obj\Debug\net6.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfoInputs.cache
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfo.cs
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\obj\Debug\net6.0\Lab7.csproj.CoreCompileInputs.cache
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\obj\Debug\net6.0\Lab7.dll
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\obj\Debug\net6.0\refint\Lab7.dll
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\obj\Debug\net6.0\Lab7.pdb
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\obj\Debug\net6.0\Lab7.genruntimeconfig.cache
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\obj\Debug\net6.0\ref\Lab7.dll
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Semestr_3\OOP_Labs\Lab_7\Lab7\obj\Debug\net6.0\Lab7.csproj.CopyComplete

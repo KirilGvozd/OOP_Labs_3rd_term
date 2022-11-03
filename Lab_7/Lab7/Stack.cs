@@ -1,174 +1,95 @@
-﻿using System.Collections;
-using Lab7;
+﻿namespace Lab7;
 
-namespace Lab3
-{
-    public class Stack<T> : IGeneralizedInterface<T>
+public class Stack<T> : IGeneralizedInterface<T> //where T : class //Это ограничение
+{   
+    public readonly List<T> List;
+    private readonly int _top;
+    public Stack()
     {
-        public class Production
-        {
-            private readonly int _id;
-            public string Name { get; set; }
-            
-            public Production(string organisationName)
-            {
-                this._id = GetHashCode();
-                this.Name = organisationName;
-            }
-        }
+        this._top = 0;
+        this.List = new List<T>();
+    }
+    public int TopElement
+    {
+        get { return this._top; }
+    }
 
-        public T[] MyStack;
-        public int Counter;
-        public int StackCapacity;
-
-        public Stack(int n)
-        {
-            MyStack = new T[n];
-            Counter = 0;
-            StackCapacity = n;
-        }
-        
-        public bool IsStackFull()
-        {
-            if (Counter == StackCapacity)
-                return true;
-            else
-                return false;
-        }
-
-        public object Pop()
-        {
-            if (MyStack.Length != 0)
-                return MyStack[--Counter];
-            return -1;
+    public int Count
+    {
+        get { return this._top; }
+    }
+    public bool IsEmpty()
+    {
+        if (List.Count == 0)
+            return true;
+        else
+            return false;
+    }
+    public void AddItem(T element)
+    {
+        this.List.Insert(_top, element);
+    }
+    public void DeleteItem()
+    {
+        if (IsEmpty())
+            throw new InvalidOperationException();
+        this.List.RemoveAt(_top);
+    }
+    public T Peek()
+    {
+        return List[_top];
+    }
+    public void LookUp()
+    {
+        if (IsEmpty())
             Console.WriteLine("Stack is empty");
+        for (int i = 0; i < List.Count; i++)
+        {
+            Console.WriteLine("->" + List[i]);
         }
+        Console.WriteLine($"Всего элементов в стеке: {List.Count}");
+    }
 
-        public object TopElement()
-        {
-            if (MyStack.Length != 0)
-                return MyStack[Counter - 1];
-            return 0;
-        }
-        
-        public static Stack<T> operator *(Stack<T> givenStack, T data)
-        {
-            givenStack.AddItem(data);
-            return givenStack;
-        }
-
-        public static Stack<T> operator / (Stack<T> givenStack, int data)
-        {
-            givenStack.Pop();
-            return givenStack;
-        }
-
-        /*
-        public static bool operator true (Stack<T> givenStack)
-        {
-            for (int i = 0; i < givenStack.StackCapacity; i++)
-            {
-                if (givenStack.MyStack[i] < 0)
-                {
-                    return true;
-                }
-            }
+    //Дополнительно перегрузить следующие 
+    //операции: + - добавить элемент в стек; -- - извлечь элемент из
+    //стека; true - проверка, пустой ли стек; > - копирование одного
+    //стека в другой с сортировкой в возрастающем порядке.
+    public static Stack<T> operator +(Stack<T> a, T elem)
+    {
+        a.AddItem(elem);
+        return a;
+    }
+    public static Stack<T> operator --(Stack<T> a)
+    {
+        a.DeleteItem();
+        return a;
+    }
+    public static bool operator true(Stack<T> a)
+    {
+        if(a.Count == 0)
             return false;
-        }
-        */
-
-        /*
-        public static bool operator false(Stack<T> givenStack)
-        {
-            for (int i = 0; i < givenStack.StackCapacity; i++)
-            {
-                if (givenStack.MyStack[i] > 0)
-                {
-                    return false;
-                }
-            }
+        return true;
+    }
+    public static bool operator false(Stack<T> a)
+    {
+        if(a.Count > 0)
             return true;
-        }
-        */
-
-        public static bool operator ==(Stack<T> firstStack, Stack<T> secondStack)
-        {
-            int counter = 0;
-            
-            if (firstStack.StackCapacity == secondStack.StackCapacity)
-            {
-                for (int i = 0; i < firstStack.StackCapacity; i++)
-                {
-                    if (!Equals(firstStack.MyStack[i], secondStack.MyStack[i]))
-                    {
-                        counter++;
-                    }
-                }
-            }
-            else
-            {
-                return false;
-            }
-
-            if (counter == 0)
-            {
-                return true;
-            }
-
-            return false;
-        }
-
-        public static bool operator !=(Stack<T> firstStack, Stack<T> secondStack)
-        {
-            int counter = 0;
-            
-            if (firstStack.StackCapacity == secondStack.StackCapacity)
-            {
-                for (int i = 0; i < firstStack.StackCapacity; i++)
-                {
-                    if (!Equals(firstStack.MyStack[i], secondStack.MyStack[i]))
-                    {
-                        counter++;
-                    }
-                }
-            }
-            else
-            {
-                return true;
-            }
-
-            if (counter == 0)
-            {
-                return false;
-            }
-
-            return true;
-
-        }
-
-        public override int GetHashCode()
-        {
-            return base.GetHashCode();
-        }
-
-        public void AddItem(T element)
-        {
-            if (!IsStackFull())
-            {
-                MyStack[Counter++] = element; 
-            }
-            else
-            {
-                Console.WriteLine("Stack is Full");
-            }
-        }
-
-        public void DeleteItem(T element)
-        {
-        }
-
-        public void LookUp()
-        {
-        }
-    }    
+        return false;
+    }
+    public static Stack<T> operator >(Stack<T> a, Stack<T> b)
+    {
+        a.List.Sort();
+        b = a;
+        return b;
+    }
+    public static Stack<T> operator <(Stack<T> a, Stack<T> b)
+    {
+        a.List.Sort();
+        b = a;
+        return b;
+    }
+    public override int GetHashCode()
+    {
+        return base.GetHashCode();
+    }
 }

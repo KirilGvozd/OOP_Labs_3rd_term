@@ -4,21 +4,7 @@
     <projectFile>Lab6/Lab6.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c469ae6d-1eea-479a-9cdb-348c5b0730c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Lab6/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Lab6/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Lab6/FileContentIndex/37203780-6924-48db-90dc-566ed2c4556a.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Lab6/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Lab6/v17/.futdcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Lab6/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Lab6/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab6.metadata.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab6.metadata.v5.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab6.projects.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab6.projects.v5.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/Lab6.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/Lab6.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/bin/Debug/net6.0/Lab6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/bin/Debug/net6.0/Lab6.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/bin/Debug/net6.0/Lab6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/bin/Debug/net6.0/Lab6.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/obj/Debug/net6.0/Lab6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/obj/Debug/net6.0/Lab6.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/obj/Debug/net6.0/Lab6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/obj/Debug/net6.0/Lab6.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Log.txt" afterDir="false" />
-    </list>
+    <list default="true" id="c469ae6d-1eea-479a-9cdb-348c5b0730c9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +61,7 @@
       <workItem from="1666957133321" duration="9568000" />
       <workItem from="1666995042544" duration="2045000" />
       <workItem from="1667043794001" duration="145000" />
-      <workItem from="1667044106941" duration="1713000" />
+      <workItem from="1667044106941" duration="1775000" />
     </task>
     <task id="LOCAL-00001" summary="Made the sixth lab and made answers for the questions">
       <created>1666998313108</created>
@@ -84,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666998313108</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Slightly edited task with Debug class and Assert method">
+      <created>1667046102802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667046102802</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Made the sixth lab and made answers for the questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made the sixth lab and made answers for the questions" />
+    <MESSAGE value="Slightly edited task with Debug class and Assert method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Slightly edited task with Debug class and Assert method" />
   </component>
 </project>

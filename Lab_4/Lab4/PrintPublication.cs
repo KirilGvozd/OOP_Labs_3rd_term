@@ -1,6 +1,6 @@
 ﻿namespace Lab4;
 
-public abstract class PrintPublication : Author
+public abstract class PrintPublication
 {
     protected string? NameOfThePrintPublication;
     protected int AmountOfPages;
