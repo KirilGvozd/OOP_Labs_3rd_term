@@ -3,13 +3,23 @@ namespace Lab9;
 
 public class Set<T> : ISet<T>
 {
-    private HashSet<T>? _ourSet;
+    private readonly HashSet<T>? _ourSet;
     public int Count { get; }
     public bool IsReadOnly => throw new NotImplementedException();
 
     public Set()
     {
         _ourSet = new HashSet<T>();
+    }
+
+    public bool Remove(T item)
+    {
+        if (item == null)
+        {
+            throw new ArgumentNullException("Невозможно удалить объект");
+        }
+        _ourSet!.Remove(item);
+        return true;
     }
 
     public void Print()
@@ -38,6 +48,12 @@ public class Set<T> : ISet<T>
         }
         Console.WriteLine("Данный элемент существует в коллекции.\n");
     }
+    
+    public void Clear()
+    {
+        _ourSet!.Clear();
+    }
+
     public IEnumerator<T> GetEnumerator()
     {
         throw new NotImplementedException();
@@ -107,12 +123,7 @@ public class Set<T> : ISet<T>
     {
         throw new NotImplementedException();
     }
-
-    public void Clear()
-    {
-        _ourSet!.Clear();
-    }
-
+    
     public bool Contains(T item)
     {
         throw new NotImplementedException();
@@ -123,13 +134,4 @@ public class Set<T> : ISet<T>
         throw new NotImplementedException();
     }
 
-    public bool Remove(T item)
-    {
-        if (item == null)
-        {
-            throw new ArgumentNullException("Невозможно удалить объект");
-        }
-        _ourSet!.Remove(item);
-        return true;
-    }
 }
