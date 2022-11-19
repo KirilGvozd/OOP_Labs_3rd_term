@@ -4,7 +4,33 @@
     <projectFile>Lab8.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3eed7b8f-f12a-4db0-ae24-036fd70f3d54" name="Changes" comment="" />
+    <list default="true" id="3eed7b8f-f12a-4db0-ae24-036fd70f3d54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.vs/Lab8/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/Lab8/FileContentIndex/8f232658-6998-4dff-9160-0c4f670d02ca.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/Lab8/FileContentIndex/read.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/Lab8/v17/.futdcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/Lab8/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab8.metadata.v5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab8.projects.v5.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab8.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab8.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab8.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab8.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab8.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab8.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Lab8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/refint/Lab8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_7/~$веты на 7 лабу.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Game.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab8.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,17 +53,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Lab8" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -67,6 +93,8 @@
       <option name="presentableId" value="Default" />
       <updated>1667495354842</updated>
       <workItem from="1667495364587" duration="4459000" />
+      <workItem from="1668001412536" duration="3196000" />
+      <workItem from="1668197978380" duration="15257000" />
     </task>
     <task id="LOCAL-00001" summary="Started work on the eighth lab">
       <created>1667548063362</created>

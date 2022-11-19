@@ -1,0 +1,15 @@
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\bin\Debug\net6.0\Lab9.exe
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\bin\Debug\net6.0\Lab9.deps.json
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\bin\Debug\net6.0\Lab9.runtimeconfig.json
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\bin\Debug\net6.0\Lab9.dll
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\bin\Debug\net6.0\Lab9.pdb
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\obj\Debug\net6.0\Lab9.csproj.AssemblyReference.cache
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\obj\Debug\net6.0\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\obj\Debug\net6.0\Lab9.AssemblyInfoInputs.cache
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\obj\Debug\net6.0\Lab9.AssemblyInfo.cs
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\obj\Debug\net6.0\Lab9.csproj.CoreCompileInputs.cache
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\obj\Debug\net6.0\Lab9.dll
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\obj\Debug\net6.0\refint\Lab9.dll
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\obj\Debug\net6.0\Lab9.pdb
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\obj\Debug\net6.0\Lab9.genruntimeconfig.cache
+D:\Semestr_3\OOP_Labs\Lab_9\Lab9\obj\Debug\net6.0\ref\Lab9.dll

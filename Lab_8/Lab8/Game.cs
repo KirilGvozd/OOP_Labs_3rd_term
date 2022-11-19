@@ -1,21 +1,43 @@
-﻿namespace Lab8;
-
-public class Game
+﻿namespace Lab8
 {
-    private static int Health { get; set; }
-
-    public Game(int health)
+    public class GameEventArgs
     {
-        Health = health;
+        public string Message { get; }
+        public int Health { get; }
+        public GameEventArgs(string mes, int num)
+        {
+            Message = mes;
+            Health = num;
+        }
     }
 
-    public static void Attack(int damage)
-    {
-        Health -= damage;
-    }
+    public delegate void GameHandler(object sender, GameEventArgs e);
 
-    public static void Healing(int addedHealth)
+    class Player
     {
-        Health += addedHealth;
+        public event GameHandler Notify;
+        public Player(int num)
+        {
+            Health = num;
+        }
+        public int Health { get; private set; }
+        public void Heal(int num)
+        {
+            Health += num;
+            Notify?.Invoke(this, new GameEventArgs($"Вылечено {num} очков здоровья", num));
+        }
+        public void Damage(int num)
+        {
+            if (Health >= num)
+            {
+                Health -= num;
+                Notify?.Invoke(this, new GameEventArgs($"Нанесено {num} урона", num));
+            }
+            else
+            {
+                Health = 0;
+                Notify?.Invoke(this, new GameEventArgs($"Нанесено {num} урона. Вы умерли :(", num)); ;
+            }
+        }
     }
 }
