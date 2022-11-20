@@ -1,10 +1,4 @@
-﻿
-using System.Runtime.CompilerServices;
-using System.Runtime.Remoting;
-using System.Security.Cryptography;
-using System.Threading.Channels;
-
-namespace Lab2
+﻿namespace Lab2
 {
     public class Book
     {
