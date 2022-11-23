@@ -1,0 +1,15 @@
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\obj\Debug\net6.0\Lab11.csproj.AssemblyReference.cache
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\obj\Debug\net6.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfoInputs.cache
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfo.cs
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\obj\Debug\net6.0\Lab11.csproj.CoreCompileInputs.cache
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\bin\Debug\net6.0\Lab11.exe
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\bin\Debug\net6.0\Lab11.deps.json
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\bin\Debug\net6.0\Lab11.runtimeconfig.json
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\bin\Debug\net6.0\Lab11.dll
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\bin\Debug\net6.0\Lab11.pdb
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\obj\Debug\net6.0\Lab11.dll
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\obj\Debug\net6.0\refint\Lab11.dll
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\obj\Debug\net6.0\Lab11.pdb
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\obj\Debug\net6.0\Lab11.genruntimeconfig.cache
+D:\Semestr_3\OOP_Labs\Lab_11\Lab11\obj\Debug\net6.0\ref\Lab11.dll

@@ -1,7 +1,7 @@
 ﻿namespace Lab10;
 public class Book
     {
-        public string NameOfTheBook { get; set; }
+        private string NameOfTheBook { get; set; }
         public string Author { get; set; }
         public int YearOfPublishing { get; set; }
         public int AmountOfPages { get; set; }

@@ -13,6 +13,8 @@ public static class Lab10
             from month in months
             where month.Length == 5
             select month;
+
+        Console.WriteLine("Месяцы, длина которых равна 5:");
         foreach (var month in lengthQuery)
         {
             Console.Write($"{month} ");
@@ -30,7 +32,7 @@ public static class Lab10
             Console.Write($"{month} ");
         }
 
-        Console.WriteLine("\nМесяцы в алфавитном порядке:");
+        Console.WriteLine("\n\nМесяцы в алфавитном порядке:");
         var sortedMonths =
             from month in months
             orderby month
@@ -40,7 +42,7 @@ public static class Lab10
             Console.Write($"{month} ");
         }
 
-        Console.WriteLine("Месяцы, содержащие \"u\" и длиной не менее 4-х символов:");
+        Console.WriteLine("\n\nМесяцы, содержащие \"u\" и длиной не менее 4-х символов:");
         var monthsWithUWord =
             from month in months
             where month.Contains('u') && month.Length >= 4
@@ -124,7 +126,7 @@ public static class Lab10
         }
         
         //4 задание
-        Console.WriteLine("\nМой уникальный запрос (сумма страниц топ-3 дешёвых книг более 200 страниц), но первый элемен запроса игнорируется:\n");
+        Console.WriteLine("\nМой уникальный запрос (сумма страниц топ-3 дешёвых книг более 200 страниц), но первый элемен запроса игнорируется:");
         var uniqueQuery = listOfBooks.OrderBy(price => price.Price).Where(pages => pages.AmountOfPages > 200).Take(3).Skip(1).Sum(pages => pages.AmountOfPages);
         /*
         var testQuery = listOfBooks.OrderBy(price => price.Price).Where(pages => pages.AmountOfPages > 200).Take(3).Skip(1); // Тестовый запрос для проверки работоспособности уникального запроса
@@ -144,6 +146,7 @@ public static class Lab10
             position = i,
         });
 
+        Console.WriteLine("\nРезультат применения оператора Join:");
         foreach (var language in joinOperator)
         {
             Console.WriteLine(language);

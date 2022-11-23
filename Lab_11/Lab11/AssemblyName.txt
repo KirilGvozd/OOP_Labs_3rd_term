@@ -1,0 +1,6 @@
+Имя класса: Lab11.Reflector. Имя сборки: Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Все публичные методы в классе Lab11.Reflector:
+System.Type GetType()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()

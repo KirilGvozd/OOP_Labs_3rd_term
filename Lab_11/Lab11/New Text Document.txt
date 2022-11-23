@@ -1,0 +1,2 @@
+Имя класса: Lab11.Reflector. Имя сборки: Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+-------------------------------------------------
