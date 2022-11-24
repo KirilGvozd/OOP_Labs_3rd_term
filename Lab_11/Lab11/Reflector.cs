@@ -6,7 +6,7 @@ public static class Reflector
     private static StreamWriter? _s;
     public static void GetNameOfTheAssembly(string? className)
     {
-        _s = new StreamWriter(@"D:\Semestr_3\OOP_Labs\Lab_11\Lab11\AssemblyName.txt", true);
+        _s = new StreamWriter(@"D:\Semestr_3\OOP_Labs\Lab_11\Lab11\File.txt", true);
         Type? currentClass = Type.GetType(className!, true, true);
         
         string assemblyName = currentClass!.Assembly.ToString();
@@ -16,7 +16,7 @@ public static class Reflector
 
     public static void IsTherePublicConstructor(string? className)
     {
-        _s = new StreamWriter(@"D:\Semestr_3\OOP_Labs\Lab_11\Lab11\AssemblyName.txt", true);
+        _s = new StreamWriter(@"D:\Semestr_3\OOP_Labs\Lab_11\Lab11\File.txt", true);
         Type? currentClass = Type.GetType(className!, true, true);
 
         foreach (var constructor in currentClass!.GetConstructors(BindingFlags.Public | BindingFlags.Instance))
@@ -27,7 +27,7 @@ public static class Reflector
     }
     public static void WritePublicMethods(string className)
     {
-        _s = new StreamWriter(@"D:\Semestr_3\OOP_Labs\Lab_11\Lab11\AssemblyName.txt", true);
+        _s = new StreamWriter(@"D:\Semestr_3\OOP_Labs\Lab_11\Lab11\File.txt", true);
         Type? currentClass = Type.GetType(className, true, true);
         
         IEnumerable<string?> publicMethods = new List<string?>(GetPublicMethods(currentClass!));
@@ -41,23 +41,24 @@ public static class Reflector
 
     public static void WriteAllFieldsAndProperties(string className)
     {
-        _s = new StreamWriter(@"D:\Semestr_3\OOP_Labs\Lab_11\Lab11\AssemblyName.txt", true);
+        _s = new StreamWriter(@"D:\Semestr_3\OOP_Labs\Lab_11\Lab11\File.txt", true);
         Type? currentClass = Type.GetType(className, true, true);
 
         IEnumerable<MemberInfo[]> allFieldsAndProperties = new List<MemberInfo[]>(GetAllFieldsAndProperties(currentClass!));
         _s.WriteLine($"Все поля и свойства в классе {className}:");
-        foreach (var item in allFieldsAndProperties)
+        foreach (var dummy in allFieldsAndProperties)
         {
             foreach (var i in allFieldsAndProperties)
             {
-                _s.WriteLine(i);
+                _s.WriteLine(i.ToString());
             }
         }
+        _s.Close();
     }
 
     public static void WriteAllInterfaces(string className)
     {
-        _s = new StreamWriter(@"D:\Semestr_3\OOP_Labs\Lab_11\Lab11\AssemblyName.txt", true);
+        _s = new StreamWriter(@"D:\Semestr_3\OOP_Labs\Lab_11\Lab11\File.txt", true);
         Type? currentClass = Type.GetType(className, true, true);
 
         IEnumerable<string> allInterfaces = new List<string>(GetAllInterfaces(currentClass!));
@@ -67,6 +68,38 @@ public static class Reflector
             _s.WriteLine(variaInterface);
         }
         _s.Close();
+    }
+
+    public static void WriteAllClassMethodsWithParameter(string className, string userParameter)
+    {
+        _s = new StreamWriter(@"D:\Semestr_3\OOP_Labs\Lab_11\Lab11\File.txt", true);
+        Type? currentClass = Type.GetType(className, true, true);
+
+        IEnumerable<string> methodsWithUserParameter =
+            new List<string>(GetAllMethodsWithUserParameter(currentClass!, userParameter));
+        
+        _s.WriteLine($"Все методы с параметром {userParameter}:");
+        foreach (var method in methodsWithUserParameter)
+        {
+            _s.WriteLine(method);
+        }
+        _s.Close();
+    }
+
+    public static void Invoke(string className, string methodName)
+    {
+        try
+        {
+            object? obj = Activator.CreateInstance(Type.GetType(className)!);
+            var method = Type.GetType(className)!.GetMethod(methodName);
+            List<string> list = File.ReadAllLines(@"D:\Semestr_3\OOP_Labs\Lab_11\Lab11\ForInvokeMethod.txt").ToList();
+            object?[] list2 = { list };
+            method!.Invoke(obj, list2);
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
     }
 
 
@@ -104,5 +137,22 @@ public static class Reflector
         }
 
         return interfaces;
+    }
+
+    private static IEnumerable<string> GetAllMethodsWithUserParameter(Type className, string userParameter)
+    {
+        var methods = new List<string>();
+        var currentClassMethods = className.GetMethods();
+
+        foreach (var item in currentClassMethods)
+        {
+            var parameter = item.GetParameters();
+            if (parameter.Any(param => param.Name == userParameter))
+            {
+                methods.Add(item.ToString()!);
+            }
+        }
+        
+        return methods;
     }
 }

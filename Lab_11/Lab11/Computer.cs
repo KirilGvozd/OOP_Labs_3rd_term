@@ -2,12 +2,16 @@
 
 public class Computer
 {
-    private string? VideoCard { get; set; }
+    public string? VideoCard { get; set; }
     private string? Processor { get; set; }
-    private int AmountOfRam { get; set; }
+    public int AmountOfRam { get; set; }
     private int AmountOfStorage { get; set; }
-    
 
+
+    public Computer()
+    {
+        
+    }
     public Computer(string videoCard, string processor, int amountOfRam, int amountOfStorage)
     {
         VideoCard = videoCard;
@@ -33,9 +37,11 @@ public class Computer
         AmountOfStorage += amountOfStorage;
     }
 
-    public static void CollectionChanged(object? sender,
-        System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
+    public void MountingVideocard(List<string> nameOfVideoCard)
     {
-        Console.WriteLine("Коллекция изменена\n");
+        foreach (var name in nameOfVideoCard)
+        {
+            Console.WriteLine($"Вы поставили видеокарту {name}");
+        }
     }
 }
