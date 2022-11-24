@@ -1,0 +1,15 @@
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\bin\Debug\net6.0\Lab12.exe
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\bin\Debug\net6.0\Lab12.deps.json
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\bin\Debug\net6.0\Lab12.runtimeconfig.json
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\bin\Debug\net6.0\Lab12.dll
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\bin\Debug\net6.0\Lab12.pdb
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\obj\Debug\net6.0\Lab12.csproj.AssemblyReference.cache
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\obj\Debug\net6.0\Lab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\obj\Debug\net6.0\Lab12.AssemblyInfoInputs.cache
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\obj\Debug\net6.0\Lab12.AssemblyInfo.cs
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\obj\Debug\net6.0\Lab12.csproj.CoreCompileInputs.cache
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\obj\Debug\net6.0\Lab12.dll
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\obj\Debug\net6.0\refint\Lab12.dll
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\obj\Debug\net6.0\Lab12.pdb
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\obj\Debug\net6.0\Lab12.genruntimeconfig.cache
+D:\Semestr_3\OOP_Labs\Lab_12\Lab12\obj\Debug\net6.0\ref\Lab12.dll
