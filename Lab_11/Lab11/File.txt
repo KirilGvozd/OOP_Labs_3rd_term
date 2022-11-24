@@ -1,0 +1,194 @@
+
+Имя класса: Lab11.Computer, Lab11. Имя сборки: Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+
+Все поля и свойства в классе Lab11.Computer, Lab11:
+System.String <VideoCard>k__BackingField
+System.String <Processor>k__BackingField
+Int32 <AmountOfRam>k__BackingField
+Int32 <AmountOfStorage>k__BackingField
+System.String VideoCard
+System.String Processor
+Int32 AmountOfRam
+Int32 AmountOfStorage
+
+
+Все интерфейсы в классе Lab11.Computer, Lab11:
+
+
+Все методы с параметром amount:
+Void AddingRam(Int32)
+
+
+В классе Lab10.Book, Lab11 есть публичный конструктор.
+
+
+В классе Lab10.Book, Lab11 есть публичный конструктор.
+
+
+Все публичные методы в классе Lab10.Book, Lab11:
+System.String get_Author()
+Void set_Author(System.String)
+Int32 get_YearOfPublishing()
+Void set_YearOfPublishing(Int32)
+Int32 get_AmountOfPages()
+Void set_AmountOfPages(Int32)
+Double get_Price()
+Void set_Price(Double)
+System.Type GetType()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+
+
+Все поля и свойства в классе Lab10.Book, Lab11:
+System.String <NameOfTheBook>k__BackingField
+System.String <Author>k__BackingField
+Int32 <YearOfPublishing>k__BackingField
+Int32 <AmountOfPages>k__BackingField
+Double <Price>k__BackingField
+System.String NameOfTheBook
+System.String Author
+Int32 YearOfPublishing
+Int32 AmountOfPages
+Double Price
+
+
+Имя класса: Lab10.Book, Lab11. Имя сборки: Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+
+Имя класса: System.String. Имя сборки: System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+
+
+В классе System.String есть публичный конструктор.
+
+
+В классе System.String есть публичный конструктор.
+
+
+В классе System.String есть публичный конструктор.
+
+
+В классе System.String есть публичный конструктор.
+
+
+В классе System.String есть публичный конструктор.
+
+
+В классе System.String есть публичный конструктор.
+
+
+В классе System.String есть публичный конструктор.
+
+
+В классе System.String есть публичный конструктор.
+
+
+В классе System.String есть публичный конструктор.
+
+
+Все публичные методы в классе System.String:
+Int32 LastIndexOf(System.String, Int32)
+Int32 LastIndexOf(System.String, Int32, Int32)
+Int32 LastIndexOf(System.String, System.StringComparison)
+Int32 LastIndexOf(System.String, Int32, System.StringComparison)
+Int32 LastIndexOf(System.String, Int32, Int32, System.StringComparison)
+System.String PadRight(Int32)
+System.String PadRight(Int32, Char)
+System.String Remove(Int32, Int32)
+System.String Remove(Int32)
+System.String Replace(System.String, System.String, Boolean, System.Globalization.CultureInfo)
+System.String Replace(System.String, System.String, System.StringComparison)
+System.String Replace(Char, Char)
+System.String Replace(System.String, System.String)
+System.String ReplaceLineEndings()
+System.String ReplaceLineEndings(System.String)
+System.String[] Split(Char, System.StringSplitOptions)
+System.String[] Split(Char, Int32, System.StringSplitOptions)
+System.String[] Split(Char[])
+System.String[] Split(Char[], Int32)
+System.String[] Split(Char[], System.StringSplitOptions)
+System.String[] Split(Char[], Int32, System.StringSplitOptions)
+System.String[] Split(System.String, System.StringSplitOptions)
+System.String[] Split(System.String, Int32, System.StringSplitOptions)
+System.String[] Split(System.String[], System.StringSplitOptions)
+System.String[] Split(System.String[], Int32, System.StringSplitOptions)
+System.String Substring(Int32)
+System.String Substring(Int32, Int32)
+System.String ToLower()
+System.String ToLower(System.Globalization.CultureInfo)
+System.String ToLowerInvariant()
+System.String ToUpper()
+System.String ToUpper(System.Globalization.CultureInfo)
+System.String ToUpperInvariant()
+System.String Trim()
+System.String Trim(Char)
+System.String Trim(Char[])
+System.String TrimStart()
+System.String TrimStart(Char)
+System.String TrimStart(Char[])
+System.String TrimEnd()
+System.String TrimEnd(Char)
+System.String TrimEnd(Char[])
+Boolean Contains(System.String)
+Boolean Contains(System.String, System.StringComparison)
+Boolean Contains(Char)
+Boolean Contains(Char, System.StringComparison)
+Int32 IndexOf(Char)
+Int32 IndexOf(Char, Int32)
+Int32 IndexOf(Char, System.StringComparison)
+Int32 IndexOf(Char, Int32, Int32)
+Int32 IndexOfAny(Char[])
+Int32 IndexOfAny(Char[], Int32)
+Int32 IndexOfAny(Char[], Int32, Int32)
+Int32 IndexOf(System.String)
+Int32 IndexOf(System.String, Int32)
+Int32 IndexOf(System.String, Int32, Int32)
+Int32 IndexOf(System.String, System.StringComparison)
+Int32 IndexOf(System.String, Int32, System.StringComparison)
+Int32 IndexOf(System.String, Int32, Int32, System.StringComparison)
+Int32 LastIndexOf(Char)
+Int32 LastIndexOf(Char, Int32)
+Int32 LastIndexOf(Char, Int32, Int32)
+Int32 LastIndexOfAny(Char[])
+Int32 LastIndexOfAny(Char[], Int32)
+Int32 LastIndexOfAny(Char[], Int32, Int32)
+Int32 LastIndexOf(System.String)
+Char& GetPinnableReference()
+System.String ToString()
+System.String ToString(System.IFormatProvider)
+System.CharEnumerator GetEnumerator()
+System.Text.StringRuneEnumerator EnumerateRunes()
+System.TypeCode GetTypeCode()
+Boolean IsNormalized()
+Boolean IsNormalized(System.Text.NormalizationForm)
+System.String Normalize()
+System.String Normalize(System.Text.NormalizationForm)
+Char get_Chars(Int32)
+Int32 get_Length()
+System.String Insert(Int32, System.String)
+System.String PadLeft(Int32)
+System.String PadLeft(Int32, Char)
+Int32 CompareTo(System.Object)
+Int32 CompareTo(System.String)
+Boolean EndsWith(System.String)
+Boolean EndsWith(System.String, System.StringComparison)
+Boolean EndsWith(System.String, Boolean, System.Globalization.CultureInfo)
+Boolean EndsWith(Char)
+Boolean Equals(System.Object)
+Boolean Equals(System.String)
+Boolean Equals(System.String, System.StringComparison)
+Int32 GetHashCode()
+Int32 GetHashCode(System.StringComparison)
+Boolean StartsWith(System.String)
+Boolean StartsWith(System.String, System.StringComparison)
+Boolean StartsWith(System.String, Boolean, System.Globalization.CultureInfo)
+Boolean StartsWith(Char)
+System.Object Clone()
+Void CopyTo(Int32, Char[], Int32, Int32)
+Void CopyTo(System.Span`1[System.Char])
+Boolean TryCopyTo(System.Span`1[System.Char])
+Char[] ToCharArray()
+Char[] ToCharArray(Int32, Int32)
+System.Type GetType()
+

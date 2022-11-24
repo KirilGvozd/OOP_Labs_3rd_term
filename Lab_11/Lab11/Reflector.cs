@@ -10,7 +10,7 @@ public static class Reflector
         Type? currentClass = Type.GetType(className!, true, true);
         
         string assemblyName = currentClass!.Assembly.ToString();
-        _s.WriteLine($"Имя класса: {className}. Имя сборки: {assemblyName}");
+        _s.WriteLine($"\nИмя класса: {className}. Имя сборки: {assemblyName}\n");
         _s.Close();
     }
 
@@ -21,7 +21,7 @@ public static class Reflector
 
         foreach (var constructor in currentClass!.GetConstructors(BindingFlags.Public | BindingFlags.Instance))
         {
-            _s.WriteLine(constructor.IsPublic ? "В классе есть публичный конструктор." : "В классе нет публичных конструкторов.");
+            _s.WriteLine(constructor.IsPublic ? $"\nВ классе {className} есть публичный конструктор.\n" : $"\nВ классе {className} нет публичных конструкторов.\n");
         }
         _s.Close();
     }
@@ -31,11 +31,12 @@ public static class Reflector
         Type? currentClass = Type.GetType(className, true, true);
         
         IEnumerable<string?> publicMethods = new List<string?>(GetPublicMethods(currentClass!));
-        _s.WriteLine($"Все публичные методы в классе {className}:");
+        _s.WriteLine($"\nВсе публичные методы в классе {className}:");
         foreach (var item in publicMethods)
         {
             _s.WriteLine(item);
         }
+        _s.WriteLine();
         _s.Close();
     }
 
@@ -45,14 +46,15 @@ public static class Reflector
         Type? currentClass = Type.GetType(className, true, true);
 
         IEnumerable<MemberInfo[]> allFieldsAndProperties = new List<MemberInfo[]>(GetAllFieldsAndProperties(currentClass!));
-        _s.WriteLine($"Все поля и свойства в классе {className}:");
+        _s.WriteLine($"\nВсе поля и свойства в классе {className}:");
         foreach (var dummy in allFieldsAndProperties)
         {
-            foreach (var i in allFieldsAndProperties)
+            foreach (var i in dummy)
             {
                 _s.WriteLine(i.ToString());
             }
         }
+        _s.WriteLine();
         _s.Close();
     }
 
@@ -62,11 +64,12 @@ public static class Reflector
         Type? currentClass = Type.GetType(className, true, true);
 
         IEnumerable<string> allInterfaces = new List<string>(GetAllInterfaces(currentClass!));
-        _s.WriteLine($"Все интерфейсы в классе {className}:");
+        _s.WriteLine($"\nВсе интерфейсы в классе {className}:");
         foreach (var variaInterface in allInterfaces)
         {
             _s.WriteLine(variaInterface);
         }
+        _s.WriteLine();
         _s.Close();
     }
 
@@ -78,11 +81,12 @@ public static class Reflector
         IEnumerable<string> methodsWithUserParameter =
             new List<string>(GetAllMethodsWithUserParameter(currentClass!, userParameter));
         
-        _s.WriteLine($"Все методы с параметром {userParameter}:");
+        _s.WriteLine($"\nВсе методы с параметром {userParameter}:");
         foreach (var method in methodsWithUserParameter)
         {
             _s.WriteLine(method);
         }
+        _s.WriteLine();
         _s.Close();
     }
 
@@ -100,6 +104,11 @@ public static class Reflector
         {
             Console.WriteLine(e.Message);
         }
+    }
+    
+    public static object Create(string className)
+    {
+        return Activator.CreateInstance(Type.GetType(className));
     }
 
 
@@ -119,9 +128,9 @@ public static class Reflector
         return new List<MemberInfo[]>
         {
             // ReSharper disable once CoVariantArrayConversion
-            className.GetProperties(BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic),
+            className.GetFields(BindingFlags.Public | BindingFlags.Instance | BindingFlags.NonPublic),
             // ReSharper disable once CoVariantArrayConversion
-            className.GetFields(BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic)
+            className.GetProperties(BindingFlags.Public | BindingFlags.Instance | BindingFlags.NonPublic)
         };
     }
 

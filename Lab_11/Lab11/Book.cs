@@ -7,6 +7,9 @@ public class Book
         public int AmountOfPages { get; set; }
         public double Price { get; set; }
 
+        public Book()
+        {
+        }
         public Book(string name, string author, int year, int pages, double price)
         {
             NameOfTheBook = name;
