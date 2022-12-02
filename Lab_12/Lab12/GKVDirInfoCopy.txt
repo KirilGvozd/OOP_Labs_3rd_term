@@ -1,0 +1,17 @@
+Список папок:
+D:\$RECYCLE.BIN
+D:\Games
+D:\Git
+D:\IntelliJ_IDEA
+D:\Linux
+D:\msdownld.tmp
+D:\Rider
+D:\Self-Education
+D:\Semestr_3
+D:\Soft
+D:\Spotify
+D:\Steam
+D:\System Volume Information
+D:\WebStorm 2022.2.2
+Список файлов:
+D:\RandomFile.txt
