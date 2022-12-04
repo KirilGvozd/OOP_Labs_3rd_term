@@ -1,6 +1,6 @@
 ﻿namespace Lab12;
 
-public class GKVFileInfo
+public static class GKVFileInfo
 {
     public static string? PrintFullPath(string nameOfTheFile)
     {

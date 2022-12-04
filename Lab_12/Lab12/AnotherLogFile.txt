@@ -1,0 +1,9 @@
+03/12/2022 15:00:43
+Действие: GKVDiskInfo.InformationAboutDisk()
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+03/12/2022 15:00:43
+Действие: GKVDiskInfo.InformationAboutDisk()
+Имя файла: GKVlogfile.txt
+Путь к файлу: D:\Semestr_3\OOP_Labs\Lab_12\Lab12\GKVlogfile.txt
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+

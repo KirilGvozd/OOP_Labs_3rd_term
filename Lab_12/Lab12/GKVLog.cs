@@ -1,7 +1,7 @@
 ﻿using System.Text;
 namespace Lab12;
 
-public class GKVLog
+public static class GKVLog
 {
     private static StreamWriter logfile;
         private static string pathLog = @"D:\Semestr_3\OOP_Labs\Lab_12\Lab12\GKVlogfile.txt";

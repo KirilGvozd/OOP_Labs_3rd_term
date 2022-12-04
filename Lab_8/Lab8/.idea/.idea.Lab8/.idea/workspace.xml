@@ -5,31 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3eed7b8f-f12a-4db0-ae24-036fd70f3d54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.vs/Lab8/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Lab8/FileContentIndex/8f232658-6998-4dff-9160-0c4f670d02ca.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Lab8/FileContentIndex/read.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Lab8/v17/.futdcache.v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Lab8/v17/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab8.metadata.v5.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab8.projects.v5.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab8.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab8.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab8.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab8.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab8.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab8.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab8.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab8.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab8.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab8.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Lab8.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/refint/Lab8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_7/~$веты на 7 лабу.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Game.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab8.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/.idea/.idea.Lab12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/.idea/.idea.Lab12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/AnotherLogFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/AnotherLogFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVDirInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVDirInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVDiskInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVDiskInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVFileInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVFileInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVFileManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVFileManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVLog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVLog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVlogfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVlogfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/Lab12.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/Lab12.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/bin/Debug/net6.0/Lab12.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/bin/Debug/net6.0/Lab12.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/bin/Debug/net6.0/Lab12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/bin/Debug/net6.0/Lab12.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/obj/Debug/net6.0/Lab12.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/obj/Debug/net6.0/Lab12.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/obj/Debug/net6.0/Lab12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/obj/Debug/net6.0/Lab12.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_6/Lab6/.idea/.idea.Lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_6/Lab6/.idea/.idea.Lab6/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +84,7 @@
       <workItem from="1667495364587" duration="4459000" />
       <workItem from="1668001412536" duration="3196000" />
       <workItem from="1668197978380" duration="15257000" />
+      <workItem from="1670161250476" duration="89000" />
     </task>
     <task id="LOCAL-00001" summary="Started work on the eighth lab">
       <created>1667548063362</created>

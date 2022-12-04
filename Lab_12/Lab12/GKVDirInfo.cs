@@ -1,6 +1,6 @@
 ﻿namespace Lab12;
 
-public class GKVDirInfo
+public static class GKVDirInfo
 {
     public static int PrintNumberOfFiles(string nameOfTheDirectory)
     {

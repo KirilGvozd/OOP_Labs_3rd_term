@@ -1,7 +1,7 @@
 ﻿namespace Lab12;
 using System.IO.Compression;
 
-public class GKVFileManager
+public static class GKVFileManager
 {
     public static void InspectDriver(string driverName)
         {

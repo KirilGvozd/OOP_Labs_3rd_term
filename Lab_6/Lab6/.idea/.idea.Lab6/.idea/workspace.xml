@@ -4,7 +4,21 @@
     <projectFile>Lab6/Lab6.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c469ae6d-1eea-479a-9cdb-348c5b0730c9" name="Changes" comment="" />
+    <list default="true" id="c469ae6d-1eea-479a-9cdb-348c5b0730c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/.idea/.idea.Lab12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/.idea/.idea.Lab12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/AnotherLogFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/AnotherLogFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVDirInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVDirInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVDiskInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVDiskInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVFileInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVFileInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVFileManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVFileManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVLog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVLog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVlogfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVlogfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/Lab12.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/Lab12.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/bin/Debug/net6.0/Lab12.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/bin/Debug/net6.0/Lab12.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/bin/Debug/net6.0/Lab12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/bin/Debug/net6.0/Lab12.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/obj/Debug/net6.0/Lab12.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/obj/Debug/net6.0/Lab12.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/obj/Debug/net6.0/Lab12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/obj/Debug/net6.0/Lab12.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +76,7 @@
       <workItem from="1666995042544" duration="2045000" />
       <workItem from="1667043794001" duration="145000" />
       <workItem from="1667044106941" duration="1775000" />
+      <workItem from="1670160836600" duration="137000" />
     </task>
     <task id="LOCAL-00001" summary="Made the sixth lab and made answers for the questions">
       <created>1666998313108</created>

@@ -1,6 +1,6 @@
 ﻿namespace Lab12;
 
-public class GKVDiskInfo
+public static class GKVDiskInfo
 {
     public static long FreeDiskSpace(string diskName)
     {

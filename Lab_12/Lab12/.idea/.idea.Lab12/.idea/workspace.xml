@@ -5,26 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e56a7e91-55e2-46e0-a89b-993686538321" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AnotherLogFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GKVDirInfoCopy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GKVFileManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GKVInspect/GKVFiles.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_11/Lab11/File.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_11/Lab11/File.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab12/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnotherLogFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AnotherLogFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GKVDirInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GKVDirInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GKVDiskInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GKVDiskInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GKVFileInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GKVFileInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GKVFileManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GKVFileManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GKVLog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GKVLog.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GKVlogfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GKVlogfile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab12.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab12.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab12.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Lab12.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab12.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab12.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab12.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab12.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab12.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab12.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab12.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab12.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Lab12.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Lab12.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/refint/Lab12.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/refint/Lab12.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +70,18 @@
       <option name="presentableId" value="Default" />
       <updated>1670007745468</updated>
       <workItem from="1670007750555" duration="7724000" />
+      <workItem from="1670018238067" duration="54000" />
+      <workItem from="1670059632865" duration="228000" />
+      <workItem from="1670070013161" duration="238000" />
     </task>
+    <task id="LOCAL-00001" summary="There are some troubles with the last task">
+      <created>1670018269671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670018269671</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="There are some troubles with the last task" />
+    <option name="LAST_COMMIT_MESSAGE" value="There are some troubles with the last task" />
   </component>
 </project>

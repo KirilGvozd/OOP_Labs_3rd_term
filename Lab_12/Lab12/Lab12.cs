@@ -23,6 +23,8 @@ public static class Lab12
             GKVFileManager.InspectDriver("D:\\");
             GKVFileManager.CopyFiles(@"C:\Users\kiril\Downloads", ".docx");
             GKVFileManager.CreateArchive(@"D:\Semestr_3\OOP_Labs\Lab_12\Lab12\Archive");
+            
+            GKVLog.FindInfo();
         }
         catch (Exception e)
         {
