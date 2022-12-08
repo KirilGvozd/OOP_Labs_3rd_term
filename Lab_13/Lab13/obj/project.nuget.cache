@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vurLCvb+LbiE5ZJTFGwzxe0ctUR4iKHu3gFFgeCZgC/vYJMy/8/G8Rs7L8ESAJALrV1Pl1LvIMJVle20SatWnQ==",
+  "dgSpecHash": "XbYSJwzE/dGxZLm1xXApGSfqJT6s91oWIja4/oI1S3tzrHoG0zaDZ+d21xgIGR3oGRKu1JKnTgvcNpwa6d2LmA==",
   "success": true,
   "projectFilePath": "D:\\Semestr_3\\OOP_Labs\\Lab_13\\Lab13\\Lab13.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kiril\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
   "logs": []
 }

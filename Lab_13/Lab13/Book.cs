@@ -3,8 +3,7 @@
 [Serializable]
 public class Book : PrintPublication, IInformationAboutPublication
 {
-    private readonly string? _typeOfBinding;
-    
+    public readonly string? TypeOfBinding;
     public override void TestFunction()
     {
         Console.WriteLine("This is test function from abstract class PrintPublication. Class Book.");
@@ -25,12 +24,12 @@ public class Book : PrintPublication, IInformationAboutPublication
         Console.WriteLine("Name of the book: " + NameOfThePrintPublication);
         Console.WriteLine("Amount of pages: " + AmountOfPages);
         Console.WriteLine("Year of publication: " + YearOfPublication);
-        Console.WriteLine("Type of the binding in this book: " + _typeOfBinding);
+        Console.WriteLine("Type of the binding in this book: " + TypeOfBinding);
     }
 
     public Book(string? typeOfBinding, string? nameOfThePrintPublication, int amountOfPages, int yearOfPublication)
     {
-        _typeOfBinding = typeOfBinding;
+        TypeOfBinding = typeOfBinding;
         NameOfThePrintPublication = nameOfThePrintPublication;
         AmountOfPages = amountOfPages;
         YearOfPublication = yearOfPublication;

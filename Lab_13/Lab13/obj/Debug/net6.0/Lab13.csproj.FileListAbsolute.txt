@@ -3,11 +3,13 @@ D:\Semestr_3\OOP_Labs\Lab_13\Lab13\bin\Debug\net6.0\Lab13.deps.json
 D:\Semestr_3\OOP_Labs\Lab_13\Lab13\bin\Debug\net6.0\Lab13.runtimeconfig.json
 D:\Semestr_3\OOP_Labs\Lab_13\Lab13\bin\Debug\net6.0\Lab13.dll
 D:\Semestr_3\OOP_Labs\Lab_13\Lab13\bin\Debug\net6.0\Lab13.pdb
+D:\Semestr_3\OOP_Labs\Lab_13\Lab13\bin\Debug\net6.0\SoapFormatter.dll
 D:\Semestr_3\OOP_Labs\Lab_13\Lab13\obj\Debug\net6.0\Lab13.csproj.AssemblyReference.cache
 D:\Semestr_3\OOP_Labs\Lab_13\Lab13\obj\Debug\net6.0\Lab13.GeneratedMSBuildEditorConfig.editorconfig
 D:\Semestr_3\OOP_Labs\Lab_13\Lab13\obj\Debug\net6.0\Lab13.AssemblyInfoInputs.cache
 D:\Semestr_3\OOP_Labs\Lab_13\Lab13\obj\Debug\net6.0\Lab13.AssemblyInfo.cs
 D:\Semestr_3\OOP_Labs\Lab_13\Lab13\obj\Debug\net6.0\Lab13.csproj.CoreCompileInputs.cache
+D:\Semestr_3\OOP_Labs\Lab_13\Lab13\obj\Debug\net6.0\Lab13.csproj.CopyComplete
 D:\Semestr_3\OOP_Labs\Lab_13\Lab13\obj\Debug\net6.0\Lab13.dll
 D:\Semestr_3\OOP_Labs\Lab_13\Lab13\obj\Debug\net6.0\refint\Lab13.dll
 D:\Semestr_3\OOP_Labs\Lab_13\Lab13\obj\Debug\net6.0\Lab13.pdb

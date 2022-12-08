@@ -4,42 +4,38 @@
     <projectFile>Lab13.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3a29cfa-6956-4eb3-a1cb-551f31804363" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab13/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab13/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab13/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab13/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Lab13.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Lab13.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Lab13.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_10/10CS_LINQ_ш.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_11/11CS_рефлексия.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/.idea/.idea.Lab12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/.idea/.idea.Lab12/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/AnotherLogFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/AnotherLogFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVDirInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVDirInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVDiskInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVDiskInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVFileInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVFileInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVFileManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVFileManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVLog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVLog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVlogfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/GKVlogfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/Lab12.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/Lab12.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/bin/Debug/net6.0/Lab12.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/bin/Debug/net6.0/Lab12.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/bin/Debug/net6.0/Lab12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/bin/Debug/net6.0/Lab12.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/obj/Debug/net6.0/Lab12.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/obj/Debug/net6.0/Lab12.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_12/Lab12/obj/Debug/net6.0/Lab12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_12/Lab12/obj/Debug/net6.0/Lab12.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_6/Lab6/.idea/.idea.Lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_6/Lab6/.idea/.idea.Lab6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab_8/Lab8/.idea/.idea.Lab8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_8/Lab8/.idea/.idea.Lab8/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="74b23335-345f-4daf-a606-7b18d147a3bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/SoapFormatter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.csproj.CopyComplete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_11/Lab11/Reflector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_11/Lab11/Reflector.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab13/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab13/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Binary.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Book.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab13.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Lab13.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab13.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Lab13.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab14.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab13.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Binary.dat" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Binary.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab13.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab13.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab13.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab13.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab13.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab13.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Lab13.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Lab13.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/refint/Lab13.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/refint/Lab13.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Lab13.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Lab13.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_8/Lab8/.vs/Lab8/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_8/Lab8/.vs/Lab8/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_8/Lab8/.vs/Lab8/FileContentIndex/8f232658-6998-4dff-9160-0c4f670d02ca.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_8/Lab8/.vs/Lab8/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_8/Lab8/.vs/Lab8/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab_8/Lab8/.vs/Lab8/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab_8/Lab8/.vs/Lab8/v17/.suo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,17 +45,14 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2IS70wIFRY8rkTrqmJD7IjG6yrp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2Ie4PjcLitERNwWzKlUgQNKnyri" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -89,12 +82,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a3a29cfa-6956-4eb3-a1cb-551f31804363" name="Changes" comment="" />
-      <created>1670162915112</created>
+      <changelist id="74b23335-345f-4daf-a606-7b18d147a3bd" name="Changes" comment="" />
+      <created>1670528698161</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670162915112</updated>
-      <workItem from="1670162923189" duration="303000" />
+      <updated>1670528698161</updated>
+      <workItem from="1670528705897" duration="3557000" />
     </task>
     <servers />
   </component>
@@ -115,7 +108,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>

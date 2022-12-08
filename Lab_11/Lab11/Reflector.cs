@@ -108,7 +108,7 @@ public static class Reflector
     
     public static object Create(string className)
     {
-        return Activator.CreateInstance(Type.GetType(className));
+        return Activator.CreateInstance(Type.GetType(className)!)!;
     }
 
 
