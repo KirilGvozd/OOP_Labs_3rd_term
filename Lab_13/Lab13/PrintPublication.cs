@@ -2,9 +2,9 @@
 [Serializable]
 public abstract class PrintPublication
 {
-    public string? NameOfThePrintPublication;
-    public int AmountOfPages;
-    public int YearOfPublication;
+    public string? NameOfThePrintPublication { get; set; }
+    public int AmountOfPages { get; set; }
+    public int YearOfPublication { get; set; }
 
     public virtual void Reading()
     {

@@ -3,40 +3,42 @@
 [Serializable]
 public class Book : PrintPublication, IInformationAboutPublication
 {
-    public readonly string? TypeOfBinding;
+    [NonSerialized] 
+    public string? TypeOfBinding = "Мягкий";
     public override void TestFunction()
     {
-        Console.WriteLine("This is test function from abstract class PrintPublication. Class Book.");
+        Console.WriteLine("\nЧитаю книгу");
     }
 
-    void IInformationAboutPublication.TestFunction()
+    void IInformationAboutPublication.ReadingABook()
     {
-        Console.WriteLine("This is a test function from interface. Class Book.");
+        Console.WriteLine("\nЧитаю книгу.");
     }
 
     public override void Reading()
     {
-        Console.WriteLine("Reading " + NameOfThePrintPublication);
+        Console.WriteLine("\nЧитаю " + NameOfThePrintPublication);
     }
 
     public  void InformationAboutPrintPublication()
     {
-        Console.WriteLine("Name of the book: " + NameOfThePrintPublication);
-        Console.WriteLine("Amount of pages: " + AmountOfPages);
-        Console.WriteLine("Year of publication: " + YearOfPublication);
-        Console.WriteLine("Type of the binding in this book: " + TypeOfBinding);
+        Console.WriteLine("\nНазвание книги: " + NameOfThePrintPublication);
+        Console.WriteLine("Кол-во страниц: " + AmountOfPages);
+        Console.WriteLine("Год издания: " + YearOfPublication);
+        Console.WriteLine("Тип переплёта: " + TypeOfBinding);
     }
 
-    public Book(string? typeOfBinding, string? nameOfThePrintPublication, int amountOfPages, int yearOfPublication)
+    public Book(string? nameOfThePrintPublication, int amountOfPages, int yearOfPublication)
     {
-        TypeOfBinding = typeOfBinding;
         NameOfThePrintPublication = nameOfThePrintPublication;
         AmountOfPages = amountOfPages;
         YearOfPublication = yearOfPublication;
     }
 
+    public Book() {}
+
     public override string ToString()
     {
-        return $"Type: {this.GetType()}, Pages: {this.AmountOfPages}";
+        return $"\nНазвание книги: {NameOfThePrintPublication}\nКол-во страниц: {AmountOfPages}\nГод издания: {YearOfPublication}\nТип переплёта: {TypeOfBinding}";
     }
 }
