@@ -6,17 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="74b23335-345f-4daf-a606-7b18d147a3bd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab13/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Book.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IInformationAboutPublication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IInformationAboutPublication.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Lab13/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Lab13/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Lab13/FileContentIndex/5bc1b635-3d81-42b7-b221-4d394303458c.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Lab13/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Lab13/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Lab13/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Lab13/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab13.metadata.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab13.metadata.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab13.projects.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/lab13.projects.v5.1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab13.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lab13.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrintPublication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrintPublication.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab13.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab13.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/Lab13.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Lab13.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Lab13.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Lab13.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Lab13.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/refint/Lab13.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/refint/Lab13.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1670528698161</updated>
       <workItem from="1670528705897" duration="3673000" />
-      <workItem from="1670605035736" duration="13540000" />
+      <workItem from="1670605035736" duration="13682000" />
+      <workItem from="1670675355639" duration="259000" />
     </task>
     <task id="LOCAL-00001" summary="Made serialization/deserialization in SOAP">
       <created>1670533319014</created>
@@ -82,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670533319014</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Made the 13th lab">
+      <created>1670637291906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670637291906</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added unversioned files">
+      <created>1670637330395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670637330395</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +115,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Made serialization/deserialization in SOAP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made serialization/deserialization in SOAP" />
+    <MESSAGE value="Made the 13th lab" />
+    <MESSAGE value="Added unversioned files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added unversioned files" />
   </component>
 </project>

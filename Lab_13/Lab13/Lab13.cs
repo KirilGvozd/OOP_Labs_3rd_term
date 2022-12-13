@@ -116,7 +116,9 @@ public static class Lab13
         if (nodes is not null)
         {
             foreach (XmlNode node in nodes)
+            {
                 Console.WriteLine(node.Name);
+            }
         }
         else
         {
