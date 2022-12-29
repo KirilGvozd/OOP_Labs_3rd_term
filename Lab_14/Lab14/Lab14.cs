@@ -64,30 +64,31 @@ public static class Lab14
                 newStream.Write($"{i} ");
             }
         }
-        
+
         //4 задание
-        
+
         Console.WriteLine("\nСначала чётные, потом нечётные:");
         Task4.FirstEvenThanOdd(userInput);
         Console.WriteLine("\nПоочерёдно чётные и нечётные:");
         Task4.EvenOddChangingEveryTime(userInput);
-        
+        Thread.Sleep(1000);
+
         //5 задание
         int num = 5;
         TimerCallback tm = new TimerCallback(Multiplier!);
-        Timer timer = new Timer(tm, num, 0, 100);
+        Timer timer = new Timer(tm, num, 0, 6000);
         Thread.Sleep(6000);
 
     }
 
     private static bool IsPrime(int number)
     {
-        for (var i = 2; i < number; i++) 
-        { 
-            if (number % i == 0) 
-                return false; 
-        } 
-        return true; 
+        for (var i = 2; i < number; i++)
+        {
+            if (number % i == 0)
+                return false;
+        }
+        return true;
     }
 
     private static void ThreadInfo(object thread)
@@ -104,7 +105,7 @@ public static class Lab14
         int limit = (int)obj;
         for (int i = 0; i < limit; i++)
         {
-            Console.WriteLine($"{i} * {i +1} = {i * (i + 1)}");
+            Console.WriteLine($"\n{i} * {i + 1} = {i * (i + 1)}");
         }
     }
 
