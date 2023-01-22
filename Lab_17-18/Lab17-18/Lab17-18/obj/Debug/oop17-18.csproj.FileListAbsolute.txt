@@ -1,0 +1,15 @@
+F:\лабы\ООП\labs\oop17-18\oop17-18\bin\Debug\oop17-18.exe.config
+F:\лабы\ООП\labs\oop17-18\oop17-18\bin\Debug\oop17-18.exe
+F:\лабы\ООП\labs\oop17-18\oop17-18\bin\Debug\oop17-18.pdb
+F:\лабы\ООП\labs\oop17-18\oop17-18\obj\Debug\oop17-18.csproj.AssemblyReference.cache
+F:\лабы\ООП\labs\oop17-18\oop17-18\obj\Debug\oop17-18.csproj.CoreCompileInputs.cache
+F:\лабы\ООП\labs\oop17-18\oop17-18\obj\Debug\oop17-18.exe
+F:\лабы\ООП\labs\oop17-18\oop17-18\obj\Debug\oop17-18.pdb
+D:\2\oop\oop17-18\oop17-18\bin\Debug\oop17-18.exe.config
+D:\2\oop\oop17-18\oop17-18\bin\Debug\oop17-18.exe
+D:\2\oop\oop17-18\oop17-18\bin\Debug\oop17-18.pdb
+D:\2\oop\oop17-18\oop17-18\obj\Debug\oop17-18.csproj.AssemblyReference.cache
+D:\2\oop\oop17-18\oop17-18\obj\Debug\oop17-18.csproj.SuggestedBindingRedirects.cache
+D:\2\oop\oop17-18\oop17-18\obj\Debug\oop17-18.csproj.CoreCompileInputs.cache
+D:\2\oop\oop17-18\oop17-18\obj\Debug\oop17-18.exe
+D:\2\oop\oop17-18\oop17-18\obj\Debug\oop17-18.pdb

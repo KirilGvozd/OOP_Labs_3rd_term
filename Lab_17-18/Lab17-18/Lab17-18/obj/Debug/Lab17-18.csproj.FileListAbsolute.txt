@@ -1,0 +1,8 @@
+D:\Semestr_3\OOP_Labs\Lab_17-18\Lab17-18\Lab17-18\bin\Debug\Lab17-18.exe.config
+D:\Semestr_3\OOP_Labs\Lab_17-18\Lab17-18\Lab17-18\bin\Debug\Lab17-18.exe
+D:\Semestr_3\OOP_Labs\Lab_17-18\Lab17-18\Lab17-18\bin\Debug\Lab17-18.pdb
+D:\Semestr_3\OOP_Labs\Lab_17-18\Lab17-18\Lab17-18\obj\Debug\Lab17-18.csproj.AssemblyReference.cache
+D:\Semestr_3\OOP_Labs\Lab_17-18\Lab17-18\Lab17-18\obj\Debug\Lab17-18.csproj.SuggestedBindingRedirects.cache
+D:\Semestr_3\OOP_Labs\Lab_17-18\Lab17-18\Lab17-18\obj\Debug\Lab17-18.csproj.CoreCompileInputs.cache
+D:\Semestr_3\OOP_Labs\Lab_17-18\Lab17-18\Lab17-18\obj\Debug\Lab17-18.exe
+D:\Semestr_3\OOP_Labs\Lab_17-18\Lab17-18\Lab17-18\obj\Debug\Lab17-18.pdb
